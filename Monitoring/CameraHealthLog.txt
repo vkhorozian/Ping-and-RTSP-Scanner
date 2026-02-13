@@ -1,0 +1,342 @@
+
+=== Health Check: 2026-02-12 16:30:56 ===
+1st - Back Exit Corner 129-A [192.168.65.109] - Ping: Online | RTSP: Online
+4th - Stair S-2 [192.168.65.137] - Ping: Online | RTSP: Online
+5th - Elevator Lobby [192.168.65.144] - Ping: Online | RTSP: Online
+5th - Stair S-1 [192.168.65.145] - Ping: Online | RTSP: Online
+5th - Stair S-2 [192.168.65.143] - Ping: Online | RTSP: Online
+CL - Corridor IT / HR [192.168.65.101] - Ping: Online | RTSP: Online
+CL - Corridor Mechanical [192.168.65.106] - Ping: Online | RTSP: Online
+CL - Elevator Landing [192.168.65.103] - Ping: Online | RTSP: Online
+CL - Stair S-2 [192.168.65.107] - Ping: Online | RTSP: Online
+CL - Staircase A [192.168.65.102] - Ping: Online | RTSP: Online
+Elevator #1 [192.168.65.104] - Ping: Online | RTSP: Online
+Elevator #2 [192.168.65.105] - Ping: Online | RTSP: Online
+4th - Stair S-1 [192.168.65.141] - Ping: Online | RTSP: Online
+Outdoor - 123rd E [192.168.65.118] - Ping: Online | RTSP: Online
+Outdoor - 3rd Ave N [192.168.65.121] - Ping: Online | RTSP: Online
+Outdoor - 3rd Ave S Corner [192.168.65.120] - Ping: Online | RTSP: Online
+Outdoor - 3rd Floor Roof Area [192.168.65.136] - Ping: Online | RTSP: Online
+Outdoor - Front Entrance 360 [192.168.65.148] - Ping: Online | RTSP: Offline
+Outdoor - Roof Door Area [192.168.65.146] - Ping: Online | RTSP: Online
+Pharmacy- 2nd Door [192.168.65.207] - Ping: Online | RTSP: Online
+Pharmacy- Back Cubby [192.168.65.208] - Ping: Online | RTSP: Online
+Pharmacy- Main Door [192.168.65.206] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 1 [192.168.65.201] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 2 [192.168.65.202] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 3 [192.168.65.203] - Ping: Online | RTSP: Online
+Outdoor - 123rd W Corner [192.168.65.119] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 4 [192.168.65.204] - Ping: Online | RTSP: Online
+4th - Elevator Lobby [192.168.65.139] - Ping: Online | RTSP: Online
+4th - Corridor Pub T 402 [192.168.65.140] - Ping: Online | RTSP: Online
+1st - Elevator Landing [192.168.65.111] - Ping: Online | RTSP: Online
+1st - Lobby Security Desk [192.168.65.112] - Ping: Online | RTSP: Online
+1st - Main Entrance [192.168.65.113] - Ping: Online | RTSP: Online
+1st - Med Station Hallway A-114 [192.168.65.117] - Ping: Online | RTSP: Online
+1st - Peds / Waiting [192.168.65.116] - Ping: Online | RTSP: Online
+1st - Registration Room 106 [192.168.65.114] - Ping: Online | RTSP: Online
+1st - S-1 Stair [192.168.65.115] - Ping: Online | RTSP: Online
+1st - Side Entrance [192.168.65.110] - Ping: Online | RTSP: Online
+1st - Stair S-2 [192.168.65.108] - Ping: Online | RTSP: Online
+2nd - Corridor 213 [192.168.65.129] - Ping: Online | RTSP: Online
+2nd - Corridor 223 [192.168.65.127] - Ping: Online | RTSP: Online
+4th - Corridor Waiting 426 [192.168.65.138] - Ping: Online | RTSP: Online
+2nd - Corridor 224 [192.168.65.128] - Ping: Online | RTSP: Online
+2nd - Elevator Lobby [192.168.65.124] - Ping: Online | RTSP: Online
+2nd - Stair S-1 [192.168.65.126] - Ping: Online | RTSP: Online
+2nd - Stair S-2 [192.168.65.122] - Ping: Online | RTSP: Online
+2nd - Waiting 201 [192.168.65.125] - Ping: Online | RTSP: Online
+3rd - Corridor Waiting 333 [192.168.65.131] - Ping: Online | RTSP: Online
+3rd - Elevator Lobby [192.168.65.132] - Ping: Online | RTSP: Online
+3rd - Mezz Exit Door 326 [192.168.65.135] - Ping: Online | RTSP: Online
+3rd - Stair S-1 [192.168.65.134] - Ping: Online | RTSP: Online
+3rd - Stair S-2 [192.168.65.130] - Ping: Online | RTSP: Online
+3rd - Waiting 302 [192.168.65.133] - Ping: Online | RTSP: Online
+4th - Corridor 420 [192.168.65.142] - Ping: Online | RTSP: Online
+2nd - Corridor Waiting 233 [192.168.65.123] - Ping: Online | RTSP: Online
+Pharmacy-Shelf 5 [192.168.65.205] - Ping: Online | RTSP: Online
+
+=== Health Check: 2026-02-12 17:02:24 ===
+1st - Back Exit Corner 129-A [192.168.65.109] - Ping: Online | RTSP: Online
+4th - Stair S-2 [192.168.65.137] - Ping: Online | RTSP: Online
+5th - Elevator Lobby [192.168.65.144] - Ping: Online | RTSP: Online
+5th - Stair S-1 [192.168.65.145] - Ping: Online | RTSP: Online
+5th - Stair S-2 [192.168.65.143] - Ping: Online | RTSP: Online
+CL - Corridor IT / HR [192.168.65.101] - Ping: Online | RTSP: Online
+CL - Corridor Mechanical [192.168.65.106] - Ping: Online | RTSP: Online
+CL - Elevator Landing [192.168.65.103] - Ping: Online | RTSP: Online
+CL - Stair S-2 [192.168.65.107] - Ping: Online | RTSP: Online
+CL - Staircase A [192.168.65.102] - Ping: Online | RTSP: Online
+Elevator #1 [192.168.65.104] - Ping: Online | RTSP: Online
+Elevator #2 [192.168.65.105] - Ping: Online | RTSP: Online
+4th - Stair S-1 [192.168.65.141] - Ping: Online | RTSP: Online
+Outdoor - 123rd E [192.168.65.118] - Ping: Online | RTSP: Online
+Outdoor - 3rd Ave N [192.168.65.121] - Ping: Online | RTSP: Online
+Outdoor - 3rd Ave S Corner [192.168.65.120] - Ping: Online | RTSP: Online
+Outdoor - 3rd Floor Roof Area [192.168.65.136] - Ping: Online | RTSP: Online
+Outdoor - Front Entrance 360 [192.168.65.148] - Ping: Online | RTSP: Offline
+Outdoor - Roof Door Area [192.168.65.146] - Ping: Online | RTSP: Online
+Pharmacy- 2nd Door [192.168.65.207] - Ping: Online | RTSP: Online
+Pharmacy- Back Cubby [192.168.65.208] - Ping: Online | RTSP: Online
+Pharmacy- Main Door [192.168.65.206] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 1 [192.168.65.201] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 2 [192.168.65.202] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 3 [192.168.65.203] - Ping: Online | RTSP: Online
+Outdoor - 123rd W Corner [192.168.65.119] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 4 [192.168.65.204] - Ping: Online | RTSP: Online
+4th - Elevator Lobby [192.168.65.139] - Ping: Online | RTSP: Online
+4th - Corridor Pub T 402 [192.168.65.140] - Ping: Online | RTSP: Online
+1st - Elevator Landing [192.168.65.111] - Ping: Online | RTSP: Online
+1st - Lobby Security Desk [192.168.65.112] - Ping: Online | RTSP: Online
+1st - Main Entrance [192.168.65.113] - Ping: Online | RTSP: Online
+1st - Med Station Hallway A-114 [192.168.65.117] - Ping: Online | RTSP: Online
+1st - Peds / Waiting [192.168.65.116] - Ping: Online | RTSP: Online
+1st - Registration Room 106 [192.168.65.114] - Ping: Online | RTSP: Online
+1st - S-1 Stair [192.168.65.115] - Ping: Online | RTSP: Online
+1st - Side Entrance [192.168.65.110] - Ping: Online | RTSP: Online
+1st - Stair S-2 [192.168.65.108] - Ping: Online | RTSP: Online
+2nd - Corridor 213 [192.168.65.129] - Ping: Online | RTSP: Online
+2nd - Corridor 223 [192.168.65.127] - Ping: Online | RTSP: Online
+4th - Corridor Waiting 426 [192.168.65.138] - Ping: Online | RTSP: Online
+2nd - Corridor 224 [192.168.65.128] - Ping: Online | RTSP: Online
+2nd - Elevator Lobby [192.168.65.124] - Ping: Online | RTSP: Online
+2nd - Stair S-1 [192.168.65.126] - Ping: Online | RTSP: Online
+2nd - Stair S-2 [192.168.65.122] - Ping: Online | RTSP: Online
+2nd - Waiting 201 [192.168.65.125] - Ping: Online | RTSP: Online
+3rd - Corridor Waiting 333 [192.168.65.131] - Ping: Online | RTSP: Online
+3rd - Elevator Lobby [192.168.65.132] - Ping: Online | RTSP: Online
+3rd - Mezz Exit Door 326 [192.168.65.135] - Ping: Online | RTSP: Online
+3rd - Stair S-1 [192.168.65.134] - Ping: Online | RTSP: Online
+3rd - Stair S-2 [192.168.65.130] - Ping: Online | RTSP: Online
+3rd - Waiting 302 [192.168.65.133] - Ping: Online | RTSP: Online
+4th - Corridor 420 [192.168.65.142] - Ping: Online | RTSP: Online
+2nd - Corridor Waiting 233 [192.168.65.123] - Ping: Online | RTSP: Online
+Pharmacy-Shelf 5 [192.168.65.205] - Ping: Online | RTSP: Online
+
+=== Health Check: 2026-02-12 17:08:46 ===
+1st - Back Exit Corner 129-A [192.168.65.109] - Ping: Online | RTSP: Online
+4th - Stair S-2 [192.168.65.137] - Ping: Online | RTSP: Online
+5th - Elevator Lobby [192.168.65.144] - Ping: Online | RTSP: Online
+5th - Stair S-1 [192.168.65.145] - Ping: Online | RTSP: Online
+5th - Stair S-2 [192.168.65.143] - Ping: Online | RTSP: Online
+CL - Corridor IT / HR [192.168.65.101] - Ping: Online | RTSP: Online
+CL - Corridor Mechanical [192.168.65.106] - Ping: Online | RTSP: Online
+CL - Elevator Landing [192.168.65.103] - Ping: Online | RTSP: Online
+CL - Stair S-2 [192.168.65.107] - Ping: Online | RTSP: Online
+CL - Staircase A [192.168.65.102] - Ping: Online | RTSP: Online
+Elevator #1 [192.168.65.104] - Ping: Online | RTSP: Online
+Elevator #2 [192.168.65.105] - Ping: Online | RTSP: Online
+4th - Stair S-1 [192.168.65.141] - Ping: Online | RTSP: Online
+Outdoor - 123rd E [192.168.65.118] - Ping: Online | RTSP: Online
+Outdoor - 3rd Ave N [192.168.65.121] - Ping: Online | RTSP: Online
+Outdoor - 3rd Ave S Corner [192.168.65.120] - Ping: Online | RTSP: Online
+Outdoor - 3rd Floor Roof Area [192.168.65.136] - Ping: Online | RTSP: Online
+Outdoor - Front Entrance 360 [192.168.65.148] - Ping: Online | RTSP: Offline
+Outdoor - Roof Door Area [192.168.65.146] - Ping: Online | RTSP: Online
+Pharmacy- 2nd Door [192.168.65.207] - Ping: Online | RTSP: Online
+Pharmacy- Back Cubby [192.168.65.208] - Ping: Online | RTSP: Online
+Pharmacy- Main Door [192.168.65.206] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 1 [192.168.65.201] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 2 [192.168.65.202] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 3 [192.168.65.203] - Ping: Online | RTSP: Online
+Outdoor - 123rd W Corner [192.168.65.119] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 4 [192.168.65.204] - Ping: Online | RTSP: Online
+4th - Elevator Lobby [192.168.65.139] - Ping: Online | RTSP: Online
+4th - Corridor Pub T 402 [192.168.65.140] - Ping: Online | RTSP: Online
+1st - Elevator Landing [192.168.65.111] - Ping: Online | RTSP: Online
+1st - Lobby Security Desk [192.168.65.112] - Ping: Online | RTSP: Online
+1st - Main Entrance [192.168.65.113] - Ping: Online | RTSP: Online
+1st - Med Station Hallway A-114 [192.168.65.117] - Ping: Online | RTSP: Online
+1st - Peds / Waiting [192.168.65.116] - Ping: Online | RTSP: Online
+1st - Registration Room 106 [192.168.65.114] - Ping: Online | RTSP: Online
+1st - S-1 Stair [192.168.65.115] - Ping: Online | RTSP: Online
+1st - Side Entrance [192.168.65.110] - Ping: Online | RTSP: Online
+1st - Stair S-2 [192.168.65.108] - Ping: Online | RTSP: Online
+2nd - Corridor 213 [192.168.65.129] - Ping: Online | RTSP: Online
+2nd - Corridor 223 [192.168.65.127] - Ping: Online | RTSP: Online
+4th - Corridor Waiting 426 [192.168.65.138] - Ping: Online | RTSP: Online
+2nd - Corridor 224 [192.168.65.128] - Ping: Online | RTSP: Online
+2nd - Elevator Lobby [192.168.65.124] - Ping: Online | RTSP: Online
+2nd - Stair S-1 [192.168.65.126] - Ping: Online | RTSP: Online
+2nd - Stair S-2 [192.168.65.122] - Ping: Online | RTSP: Online
+2nd - Waiting 201 [192.168.65.125] - Ping: Online | RTSP: Online
+3rd - Corridor Waiting 333 [192.168.65.131] - Ping: Online | RTSP: Online
+3rd - Elevator Lobby [192.168.65.132] - Ping: Online | RTSP: Online
+3rd - Mezz Exit Door 326 [192.168.65.135] - Ping: Online | RTSP: Online
+3rd - Stair S-1 [192.168.65.134] - Ping: Online | RTSP: Online
+3rd - Stair S-2 [192.168.65.130] - Ping: Online | RTSP: Online
+3rd - Waiting 302 [192.168.65.133] - Ping: Online | RTSP: Online
+4th - Corridor 420 [192.168.65.142] - Ping: Online | RTSP: Online
+2nd - Corridor Waiting 233 [192.168.65.123] - Ping: Online | RTSP: Online
+Pharmacy-Shelf 5 [192.168.65.205] - Ping: Online | RTSP: Online
+
+=== Health Check: 2026-02-12 17:09:12 ===
+1st - Back Exit Corner 129-A [192.168.65.109] - Ping: Online | RTSP: Online
+4th - Stair S-2 [192.168.65.137] - Ping: Online | RTSP: Online
+5th - Elevator Lobby [192.168.65.144] - Ping: Online | RTSP: Online
+5th - Stair S-1 [192.168.65.145] - Ping: Online | RTSP: Online
+5th - Stair S-2 [192.168.65.143] - Ping: Online | RTSP: Online
+CL - Corridor IT / HR [192.168.65.101] - Ping: Online | RTSP: Online
+CL - Corridor Mechanical [192.168.65.106] - Ping: Online | RTSP: Online
+CL - Elevator Landing [192.168.65.103] - Ping: Online | RTSP: Online
+CL - Stair S-2 [192.168.65.107] - Ping: Online | RTSP: Online
+CL - Staircase A [192.168.65.102] - Ping: Online | RTSP: Online
+Elevator #1 [192.168.65.104] - Ping: Online | RTSP: Online
+Elevator #2 [192.168.65.105] - Ping: Online | RTSP: Online
+4th - Stair S-1 [192.168.65.141] - Ping: Online | RTSP: Online
+Outdoor - 123rd E [192.168.65.118] - Ping: Online | RTSP: Online
+Outdoor - 3rd Ave N [192.168.65.121] - Ping: Online | RTSP: Online
+Outdoor - 3rd Ave S Corner [192.168.65.120] - Ping: Online | RTSP: Online
+Outdoor - 3rd Floor Roof Area [192.168.65.136] - Ping: Online | RTSP: Online
+Outdoor - Front Entrance 360 [192.168.65.148] - Ping: Online | RTSP: Offline
+Outdoor - Roof Door Area [192.168.65.146] - Ping: Online | RTSP: Online
+Pharmacy- 2nd Door [192.168.65.207] - Ping: Online | RTSP: Online
+Pharmacy- Back Cubby [192.168.65.208] - Ping: Online | RTSP: Online
+Pharmacy- Main Door [192.168.65.206] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 1 [192.168.65.201] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 2 [192.168.65.202] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 3 [192.168.65.203] - Ping: Online | RTSP: Online
+Outdoor - 123rd W Corner [192.168.65.119] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 4 [192.168.65.204] - Ping: Online | RTSP: Online
+4th - Elevator Lobby [192.168.65.139] - Ping: Online | RTSP: Online
+4th - Corridor Pub T 402 [192.168.65.140] - Ping: Online | RTSP: Online
+1st - Elevator Landing [192.168.65.111] - Ping: Online | RTSP: Online
+1st - Lobby Security Desk [192.168.65.112] - Ping: Online | RTSP: Online
+1st - Main Entrance [192.168.65.113] - Ping: Online | RTSP: Online
+1st - Med Station Hallway A-114 [192.168.65.117] - Ping: Online | RTSP: Online
+1st - Peds / Waiting [192.168.65.116] - Ping: Online | RTSP: Online
+1st - Registration Room 106 [192.168.65.114] - Ping: Online | RTSP: Online
+1st - S-1 Stair [192.168.65.115] - Ping: Online | RTSP: Online
+1st - Side Entrance [192.168.65.110] - Ping: Online | RTSP: Online
+1st - Stair S-2 [192.168.65.108] - Ping: Online | RTSP: Online
+2nd - Corridor 213 [192.168.65.129] - Ping: Online | RTSP: Online
+2nd - Corridor 223 [192.168.65.127] - Ping: Online | RTSP: Online
+4th - Corridor Waiting 426 [192.168.65.138] - Ping: Online | RTSP: Online
+2nd - Corridor 224 [192.168.65.128] - Ping: Online | RTSP: Online
+2nd - Elevator Lobby [192.168.65.124] - Ping: Online | RTSP: Online
+2nd - Stair S-1 [192.168.65.126] - Ping: Online | RTSP: Online
+2nd - Stair S-2 [192.168.65.122] - Ping: Online | RTSP: Online
+2nd - Waiting 201 [192.168.65.125] - Ping: Online | RTSP: Online
+3rd - Corridor Waiting 333 [192.168.65.131] - Ping: Online | RTSP: Online
+3rd - Elevator Lobby [192.168.65.132] - Ping: Online | RTSP: Online
+3rd - Mezz Exit Door 326 [192.168.65.135] - Ping: Online | RTSP: Online
+3rd - Stair S-1 [192.168.65.134] - Ping: Online | RTSP: Online
+3rd - Stair S-2 [192.168.65.130] - Ping: Online | RTSP: Online
+3rd - Waiting 302 [192.168.65.133] - Ping: Online | RTSP: Online
+4th - Corridor 420 [192.168.65.142] - Ping: Online | RTSP: Online
+2nd - Corridor Waiting 233 [192.168.65.123] - Ping: Online | RTSP: Online
+Pharmacy-Shelf 5 [192.168.65.205] - Ping: Online | RTSP: Online
+
+=== Health Check: 2026-02-12 17:09:35 ===
+1st - Back Exit Corner 129-A [192.168.65.109] - Ping: Online | RTSP: Online
+4th - Stair S-2 [192.168.65.137] - Ping: Online | RTSP: Online
+5th - Elevator Lobby [192.168.65.144] - Ping: Online | RTSP: Online
+5th - Stair S-1 [192.168.65.145] - Ping: Online | RTSP: Online
+5th - Stair S-2 [192.168.65.143] - Ping: Online | RTSP: Online
+CL - Corridor IT / HR [192.168.65.101] - Ping: Online | RTSP: Online
+CL - Corridor Mechanical [192.168.65.106] - Ping: Online | RTSP: Online
+CL - Elevator Landing [192.168.65.103] - Ping: Online | RTSP: Online
+CL - Stair S-2 [192.168.65.107] - Ping: Online | RTSP: Online
+CL - Staircase A [192.168.65.102] - Ping: Online | RTSP: Online
+Elevator #1 [192.168.65.104] - Ping: Online | RTSP: Online
+Elevator #2 [192.168.65.105] - Ping: Online | RTSP: Online
+4th - Stair S-1 [192.168.65.141] - Ping: Online | RTSP: Online
+Outdoor - 123rd E [192.168.65.118] - Ping: Online | RTSP: Online
+Outdoor - 3rd Ave N [192.168.65.121] - Ping: Online | RTSP: Online
+Outdoor - 3rd Ave S Corner [192.168.65.120] - Ping: Online | RTSP: Online
+Outdoor - 3rd Floor Roof Area [192.168.65.136] - Ping: Online | RTSP: Online
+Outdoor - Front Entrance 360 [192.168.65.148] - Ping: Online | RTSP: Offline
+Outdoor - Roof Door Area [192.168.65.146] - Ping: Online | RTSP: Online
+Pharmacy- 2nd Door [192.168.65.207] - Ping: Online | RTSP: Online
+Pharmacy- Back Cubby [192.168.65.208] - Ping: Online | RTSP: Online
+Pharmacy- Main Door [192.168.65.206] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 1 [192.168.65.201] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 2 [192.168.65.202] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 3 [192.168.65.203] - Ping: Online | RTSP: Online
+Outdoor - 123rd W Corner [192.168.65.119] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 4 [192.168.65.204] - Ping: Online | RTSP: Online
+4th - Elevator Lobby [192.168.65.139] - Ping: Online | RTSP: Online
+4th - Corridor Pub T 402 [192.168.65.140] - Ping: Online | RTSP: Online
+1st - Elevator Landing [192.168.65.111] - Ping: Online | RTSP: Online
+1st - Lobby Security Desk [192.168.65.112] - Ping: Online | RTSP: Online
+1st - Main Entrance [192.168.65.113] - Ping: Online | RTSP: Online
+1st - Med Station Hallway A-114 [192.168.65.117] - Ping: Online | RTSP: Online
+1st - Peds / Waiting [192.168.65.116] - Ping: Online | RTSP: Online
+1st - Registration Room 106 [192.168.65.114] - Ping: Online | RTSP: Online
+1st - S-1 Stair [192.168.65.115] - Ping: Online | RTSP: Online
+1st - Side Entrance [192.168.65.110] - Ping: Online | RTSP: Online
+1st - Stair S-2 [192.168.65.108] - Ping: Online | RTSP: Online
+2nd - Corridor 213 [192.168.65.129] - Ping: Online | RTSP: Online
+2nd - Corridor 223 [192.168.65.127] - Ping: Online | RTSP: Online
+4th - Corridor Waiting 426 [192.168.65.138] - Ping: Online | RTSP: Online
+2nd - Corridor 224 [192.168.65.128] - Ping: Online | RTSP: Online
+2nd - Elevator Lobby [192.168.65.124] - Ping: Online | RTSP: Online
+2nd - Stair S-1 [192.168.65.126] - Ping: Online | RTSP: Online
+2nd - Stair S-2 [192.168.65.122] - Ping: Online | RTSP: Online
+2nd - Waiting 201 [192.168.65.125] - Ping: Online | RTSP: Online
+3rd - Corridor Waiting 333 [192.168.65.131] - Ping: Online | RTSP: Online
+3rd - Elevator Lobby [192.168.65.132] - Ping: Online | RTSP: Online
+3rd - Mezz Exit Door 326 [192.168.65.135] - Ping: Online | RTSP: Online
+3rd - Stair S-1 [192.168.65.134] - Ping: Online | RTSP: Online
+3rd - Stair S-2 [192.168.65.130] - Ping: Online | RTSP: Online
+3rd - Waiting 302 [192.168.65.133] - Ping: Online | RTSP: Online
+4th - Corridor 420 [192.168.65.142] - Ping: Online | RTSP: Online
+2nd - Corridor Waiting 233 [192.168.65.123] - Ping: Online | RTSP: Online
+Pharmacy-Shelf 5 [192.168.65.205] - Ping: Online | RTSP: Online
+
+=== Health Check: 2026-02-12 17:11:00 ===
+1st - Back Exit Corner 129-A [192.168.65.109] - Ping: Online | RTSP: Online
+4th - Stair S-2 [192.168.65.137] - Ping: Online | RTSP: Online
+5th - Elevator Lobby [192.168.65.144] - Ping: Online | RTSP: Online
+5th - Stair S-1 [192.168.65.145] - Ping: Online | RTSP: Online
+5th - Stair S-2 [192.168.65.143] - Ping: Online | RTSP: Online
+CL - Corridor IT / HR [192.168.65.101] - Ping: Online | RTSP: Online
+CL - Corridor Mechanical [192.168.65.106] - Ping: Online | RTSP: Online
+CL - Elevator Landing [192.168.65.103] - Ping: Online | RTSP: Online
+CL - Stair S-2 [192.168.65.107] - Ping: Online | RTSP: Online
+CL - Staircase A [192.168.65.102] - Ping: Online | RTSP: Online
+Elevator #1 [192.168.65.104] - Ping: Online | RTSP: Online
+Elevator #2 [192.168.65.105] - Ping: Online | RTSP: Online
+4th - Stair S-1 [192.168.65.141] - Ping: Online | RTSP: Online
+Outdoor - 123rd E [192.168.65.118] - Ping: Online | RTSP: Online
+Outdoor - 3rd Ave N [192.168.65.121] - Ping: Online | RTSP: Online
+Outdoor - 3rd Ave S Corner [192.168.65.120] - Ping: Online | RTSP: Online
+Outdoor - 3rd Floor Roof Area [192.168.65.136] - Ping: Online | RTSP: Online
+Outdoor - Front Entrance 360 [192.168.65.148] - Ping: Online | RTSP: Offline
+Outdoor - Roof Door Area [192.168.65.146] - Ping: Online | RTSP: Online
+Pharmacy- 2nd Door [192.168.65.207] - Ping: Online | RTSP: Online
+Pharmacy- Back Cubby [192.168.65.208] - Ping: Online | RTSP: Online
+Pharmacy- Main Door [192.168.65.206] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 1 [192.168.65.201] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 2 [192.168.65.202] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 3 [192.168.65.203] - Ping: Online | RTSP: Online
+Outdoor - 123rd W Corner [192.168.65.119] - Ping: Online | RTSP: Online
+Pharmacy- Shelf 4 [192.168.65.204] - Ping: Online | RTSP: Online
+4th - Elevator Lobby [192.168.65.139] - Ping: Online | RTSP: Online
+4th - Corridor Pub T 402 [192.168.65.140] - Ping: Online | RTSP: Online
+1st - Elevator Landing [192.168.65.111] - Ping: Online | RTSP: Online
+1st - Lobby Security Desk [192.168.65.112] - Ping: Online | RTSP: Online
+1st - Main Entrance [192.168.65.113] - Ping: Online | RTSP: Online
+1st - Med Station Hallway A-114 [192.168.65.117] - Ping: Online | RTSP: Online
+1st - Peds / Waiting [192.168.65.116] - Ping: Online | RTSP: Online
+1st - Registration Room 106 [192.168.65.114] - Ping: Online | RTSP: Online
+1st - S-1 Stair [192.168.65.115] - Ping: Online | RTSP: Online
+1st - Side Entrance [192.168.65.110] - Ping: Online | RTSP: Online
+1st - Stair S-2 [192.168.65.108] - Ping: Online | RTSP: Online
+2nd - Corridor 213 [192.168.65.129] - Ping: Online | RTSP: Online
+2nd - Corridor 223 [192.168.65.127] - Ping: Online | RTSP: Online
+4th - Corridor Waiting 426 [192.168.65.138] - Ping: Online | RTSP: Online
+2nd - Corridor 224 [192.168.65.128] - Ping: Online | RTSP: Online
+2nd - Elevator Lobby [192.168.65.124] - Ping: Online | RTSP: Online
+2nd - Stair S-1 [192.168.65.126] - Ping: Online | RTSP: Online
+2nd - Stair S-2 [192.168.65.122] - Ping: Online | RTSP: Online
+2nd - Waiting 201 [192.168.65.125] - Ping: Online | RTSP: Online
+3rd - Corridor Waiting 333 [192.168.65.131] - Ping: Online | RTSP: Online
+3rd - Elevator Lobby [192.168.65.132] - Ping: Online | RTSP: Online
+3rd - Mezz Exit Door 326 [192.168.65.135] - Ping: Online | RTSP: Online
+3rd - Stair S-1 [192.168.65.134] - Ping: Online | RTSP: Online
+3rd - Stair S-2 [192.168.65.130] - Ping: Online | RTSP: Online
+3rd - Waiting 302 [192.168.65.133] - Ping: Online | RTSP: Online
+4th - Corridor 420 [192.168.65.142] - Ping: Online | RTSP: Online
+2nd - Corridor Waiting 233 [192.168.65.123] - Ping: Online | RTSP: Online
+Pharmacy-Shelf 5 [192.168.65.205] - Ping: Online | RTSP: Online
